@@ -1,3 +1,1 @@
-mensagem = "Oi"
-print(mensagem)
-
+print('Hello Git')
